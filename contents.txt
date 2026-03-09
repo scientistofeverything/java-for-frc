@@ -3,11 +3,7 @@ Unit 1: Syntax and Variables
 Compilation and Execution
 Console Output (Hello World!)
 Stack Traces
-Syntax
-Statements
-Blocks
-Comments
-Keywords
+Syntax - Statements, Blocks, Comments, Keywords
 Variables and Types
 Numbers
 Booleans
