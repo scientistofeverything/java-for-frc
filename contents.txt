@@ -1,0 +1,108 @@
+Book 1: Fundamentals of Programming in Java for FRC
+Unit 1: Syntax and Variables
+Compilation and Execution
+Console Output (Hello World!)
+Stack Traces
+Syntax
+Statements
+Blocks
+Comments
+Keywords
+Variables and Types
+Numbers
+Booleans
+Characters
+Objects vs. Primitives
+Strings
+Constants
+Unit 2: Data Structures
+Arrays
+Declaration and Instantiation
+Array Access
+Array Modification
+Lists
+Declaration and Instantiation
+List Access
+List Modification
+Unit 3: Operators and Math
+Arithmetic
+Comparison and Equivalence
+Logic
+Assignment
+Order of Operations
+Math Functions
+Trigonometric Functions and Pi
+Rounding
+Clamping
+Unit 4: Control and Iteration
+Conditional Logic
+If
+If-Else
+If-Elseif-Else
+Ternary Operator
+Switch
+Iteration
+For
+For-Each
+While and Do-While
+Break and Continue
+Unit 5: Methods
+Calling
+Parameters
+Return Values and Types
+Implementation
+Scope
+Unit 6: Classes
+Intro to Classes
+Attributes
+Methods
+Static Fields
+Inheritance
+Super and This
+Overriding
+Access
+Packages, Imports, Libraries
+Enums
+Unit 7: Version Control
+Intro to Github
+Repositories and Permissions
+Files and Changes
+Staging, Stashing, and .gitignore
+Commits and History
+Fetching, Pushing, and Pulling
+Merging and Conflicts
+Reverting and Resetting
+Amending
+Testing and Validation
+
+Book 2: Robot Programming in Java for FRC
+Unit 8: Robot
+Hardware Components
+RoboRIO: Diagram, Imaging
+Radio: Diagram, Configuration
+Motors: Platforms
+CAN
+CAN Structure and Wiring
+CAN Access Software: Rev Hardware Client 2, Phoenix Tuner X
+CAN IDs
+Robot Project
+Main and Robot
+Subsystems
+Building and Deployment
+Driver Station
+Unit 9: Input
+Joysticks and Input Devices
+Sensors
+Field Management System
+Driver Station Information
+Match Time
+Operation Mode
+Encoders
+Kinematics and Odometry
+NetworkTables
+Limelight Vision
+Dashboards
+Unit 10: Automation
+Commands
+Autobuilder
+PathPlanner
